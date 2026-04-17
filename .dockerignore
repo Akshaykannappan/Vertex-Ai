@@ -1,0 +1,7 @@
+venv/
+.env
+vertex-ai-key.json
+__pycache__/
+*.pyc
+.git/
+*.tgz

@@ -1,0 +1,11 @@
+flask==3.0.0
+flask-cors>=4.0.0
+google-cloud-aiplatform>=1.49.0
+google-cloud-storage
+python-dotenv==1.0.0
+gunicorn==21.2.0
+flasgger>=0.9.7
+transformers
+tokenizers
+pandas
+openpyxl
